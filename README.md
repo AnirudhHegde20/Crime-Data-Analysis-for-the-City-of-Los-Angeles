@@ -11,6 +11,7 @@ This project conducts a thorough analysis of Los Angeles crime data from 2020 to
 
 ### Data Source:
 The primary dataset was sourced from a government website, encompassing incident records of crimes within the City of Los Angeles dating back to 2020. The dataset underwent extensive cleaning to address issues such as missing data, duplicates, and outliers.
+
 Data Source  : https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/
 
 ### Methodology:
